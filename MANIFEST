@@ -1,0 +1,25 @@
+inc/Module/Install.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Include.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/Acme/Mahjong.pm
+lib/Acme/Mahjong/Calculator.pm
+lib/Acme/Mahjong/Deck.pm
+lib/Acme/Mahjong/Hand.pm
+lib/Acme/Mahjong/Rule.pm
+lib/Acme/Mahjong/Rule/JP.pm
+lib/Acme/Mahjong/Tile.pm
+lib/Acme/Mahjong/Tile/Dragon.pm
+lib/Acme/Mahjong/Tile/Suited.pm
+lib/Acme/Mahjong/Tile/Wind.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+t/00_compile.t
+t/10_simple.t
+t/11_point.t

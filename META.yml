@@ -1,0 +1,18 @@
+---
+abstract: 'Simple Mahjong Utility'
+author: ~
+distribution_type: module
+generated_by: 'Module::Install version 0.76'
+license: unknown
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Acme-Mahjong
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  List::Util: 0
+  Moose: 0
+version: 0.00001
